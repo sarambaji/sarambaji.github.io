@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Sara Baji
+logo: profile.jpg
+description: >
+  MPH Student in Global Epidemiology & Data Science at Emory University.
+  Research in digital health, AI fairness, and infectious disease modeling.
+show_downloads: false
+github:
+  is_project_page: false
